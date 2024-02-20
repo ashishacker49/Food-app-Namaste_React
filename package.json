@@ -1,0 +1,22 @@
+{
+  "name": "food-app",
+  "version": "1.0.0",
+  "description": "Food app",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "url"
+  },
+  "keywords": [
+    "kuch",
+    "ni"
+  ],
+  "author": "Ashish",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.11.0"
+  }
+}
